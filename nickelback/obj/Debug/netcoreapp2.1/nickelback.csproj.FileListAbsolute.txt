@@ -1,0 +1,11 @@
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/bin/Debug/netcoreapp2.1/nickelback.deps.json
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/bin/Debug/netcoreapp2.1/nickelback.runtimeconfig.json
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/bin/Debug/netcoreapp2.1/nickelback.runtimeconfig.dev.json
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/bin/Debug/netcoreapp2.1/nickelback.dll
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/bin/Debug/netcoreapp2.1/nickelback.pdb
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.csprojAssemblyReference.cache
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.csproj.CoreCompileInputs.cache
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.AssemblyInfoInputs.cache
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.AssemblyInfo.cs
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.dll
+/Users/aprilwatson/workspace/csharp/exercises/more_exercises/nickelback/obj/Debug/netcoreapp2.1/nickelback.pdb
