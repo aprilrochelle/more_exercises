@@ -11,9 +11,11 @@ or ArtistName LIKE "Marv%";
 -- 2. Using the INSERT statement, add one of your favorite artists to the Artist table.
 INSERT INTO Artist VALUES (null, "Marvin Gaye", 1969);
 INSERT INTO Artist VALUES (null, "Michael Jackson", 1965);
+delete from Artist where ArtistId = 28;
 
 -- 3. Using the INSERT statement, add one, or more, albums by your artist to the Album table.
 INSERT INTO Album VALUES (null, "Thriller", "November 30, 1982", 1, "Epic Records", 30, 7);
+DELETE FROM Album WHERE AlbumId = 24;
 
 -- 4. Using the INSERT statement, add some songs that are on that album to the Song table.
 INSERT INTO Song 
