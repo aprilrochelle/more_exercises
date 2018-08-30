@@ -110,6 +110,7 @@ INSERT INTO RecordLabel VALUES (null, "Columbia");
 INSERT INTO RecordLabel VALUES (null, "Chess");
 INSERT INTO RecordLabel VALUES (null, "Warner Bros.");
 INSERT INTO RecordLabel VALUES (null, "SST");
+INSERT INTO RecordLabel VALUES (null, "Epic");
 
 INSERT INTO Album
 	SELECT null,
