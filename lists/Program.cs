@@ -49,7 +49,7 @@ namespace lists
             Dictionary<string,string> Venus = new Dictionary<string, string>{{"Venus", "Pioneer Venus Multiprobe"}};
             Dictionary<string, string> Jupiter = new Dictionary<string, string>{{"Jupiter", "Pioneer 10"}};
             Dictionary<string, string> Saturn = new Dictionary<string, string>{{"Saturn", "Voyager 1"}};
-            Dictionary<string, string> Uranus = new Dictionary<string, string>{{"Mars", "Voyager 2"}};
+            Dictionary<string, string> Uranus = new Dictionary<string, string>{{"Uranus", "Voyager 2"}};
             Dictionary<string, string> Neptune = new Dictionary<string, string>{{"Neptune", "Voyager 2"}};
 
             //  Add probes to the list
